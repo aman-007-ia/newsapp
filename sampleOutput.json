@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 43,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Germany raids Russian oligarch's properties in money-laundering probe",
+    "description": "German police raided a lakeside villa registered to Russian-Uzbek oligarch Alisher Usmanov in the southern state of Bavaria on Wednesday as part of investigations into suspected money-laundering, sources familiar with the matter said.",
+    "url": "https://www.reuters.com/world/europe/german-police-storm-estate-russian-oligarch-usmanov-media-reports-2022-09-21/",
+    "urlToImage": "https://www.reuters.com/resizer/kEEDEEe_IY5ZoKMtNogZ232Uq0k=/800x419/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z3AGRXWLAFMADDW4SYYJVT4EXM.jpg",
+    "publishedAt": "2022-09-21T14:27:44Z",
+    "content": "ROTTACH-EGERN, Germany, Sept 21 (Reuters) - German police raided a lakeside villa registered to Russian-Uzbek oligarch Alisher Usmanov in the southern state of Bavaria on Wednesday as part of investi… [+2576 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Mary Ilyushina, Annabelle Timsit",
+    "title": "What does Putin’s partial military mobilization mean for Russia and Ukraine?",
+    "description": "Russian President Vladimir Putin announced plans to call up 300,000 reservists as his invasion of Ukraine faces setbacks.",
+    "url": "https://www.washingtonpost.com/world/2022/09/21/russia-partial-mobilization-putin-war-ukraine/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZI6BQOBZUMI63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-09-21T14:11:06Z",
+    "content": "Russian President Vladimir Putin announced a partial mobilization of reservists as his country faces setbacks in its invasion of Ukraine. The move, announced in an address to his nation on Wednesday,… [+12174 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Andrei Kolesnikov",
+    "title": "Opinion: Putin has just laid a land mine under his regime",
+    "description": "In a televised national address Wednesday morning, Russian President Vladimir Putin announced a partial mobilization. This means that he has essentially broken an unwritten social contract with Russians: we, the citizens, allow you, the authorities, to steal …",
+    "url": "http://us.cnn.com/2022/09/21/opinions/putin-mobilization-russians-ukraine-counteroffensive-kolesnikov/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220916133619-01-putin-uzbekistan-summit-0916.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-21T13:51:43Z",
+    "content": "Editors Note: Editors note: Andrei Kolesnikov is a senior fellow at the Carnegie Endowment for International Peace. He is the author of several books on the political and social history of Russia, in… [+6632 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news-ca",
+    "name": "Google News (Canada)"
+    },
+    "author": null,
+    "title": "Putin mobilizes more troops for Ukraine war, threatens enemies | CBC News",
+    "description": "Russian President Vladimir Putin on Wednesday announced a partial mobilization in Russia as the war in Ukraine reaches nearly seven months.",
+    "url": "https://www.cbc.ca/news/world/putin-russia-ukraine-military-escalation-1.6589739",
+    "urlToImage": "https://i.cbc.ca/1.6589766.1663745837!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/ukraine-crisis-putin.JPG",
+    "publishedAt": "2022-09-21T13:45:13+00:00",
+    "content": "Russian President Vladimir Putin on Wednesday announced a partial mobilization in Russia as the war in Ukraine reaches nearly seven months and Moscow loses ground on the battlefield. Putin also warne… [+5920 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Exclusive: NATO chief says Putin's Ukraine escalation 'dangerous and reckless'",
+    "description": "Russian President <a href=\"https://www.reuters.com/world/europe/ukraine-marches-farther-into-liberated-lands-separatist-calls-urgent-referendum-2022-09-19/\" target=\"_blank\">Vladimir Putin's</a> mobilization of thousands of <a href=\"https://www.reuters.com/mar…",
+    "url": "https://www.reuters.com/world/europe/exclusive-nato-chief-says-putins-ukraine-escalation-dangerous-reckless-2022-09-21/",
+    "urlToImage": "https://www.reuters.com/resizer/F_viBkbqtNjnHaAti9ordZFKl6Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XPZGE4SWIBKDPIB5TYFSKW4PQU.jpg",
+    "publishedAt": "2022-09-21T13:33:53Z",
+    "content": "NEW YORK, Sept 21 (Reuters) - Russian President Vladimir Putin's mobilization of thousands of extra troops for the war in Ukraine will escalate the conflict and his threat to use nuclear weapons was … [+1652 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "David Ignatius",
+    "title": "Putin’s annexation plan is desperate and dangerous",
+    "description": "The boxed-in Russian leader faces only bad options — with grave risks for the world.",
+    "url": "https://www.washingtonpost.com/opinions/2022/09/21/putin-russia-ukraine-annexation-dangerous/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2DUOLBYAEI63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-09-21T13:04:36Z",
+    "content": "Russian President Vladimir Putin is running out of time and good options in his failing invasion of Ukraine. So, now hes rushing to implement bad ones starting with a move toward quick annexation of … [+4983 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Fox News",
+    "title": "Putin warns West: Threat to resort to nuclear weapons ‘not a bluff’",
+    "description": "Russian President Vladimir Putin claimed the West made nuclear threats against Russia and warned that his own country's nuclear threats were \"not a bluff.\"",
+    "url": "https://www.foxnews.com/world/putin-warns-west-threat-resort-nuclear-weapons-not-bluff",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/putin1.png",
+    "publishedAt": "2022-09-21T12:37:20.522775Z",
+    "content": "Russian President Vladimir Putin warned Western countries that his country's nuclear threats are \"not a bluff\" on Wednesday.\r\nPutin issued the warning after accusing Western countries of resorting to… [+3076 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Putin warning: What does Russian military call-up mean for Ukraine?",
+    "description": "Ukraine's advances prompt Russia to launch a partial military mobilisation, raising the stakes.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62981289",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12817/production/_126799757_mediaitem126799756.jpg",
+    "publishedAt": "2022-09-21T12:22:19.6789707Z",
+    "content": "By Laurence PeterBBC News\r\nRussian President Vladimir Putin has ordered a partial mobilisation to reinforce his troops in Ukraine after major combat setbacks this month. In an address to the nation, … [+4977 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": null,
+    "title": "Vladimir Putin announces partial mobilization, does not dismiss nuclear option",
+    "description": "Putin’s address to the nation comes a day after Russian-controlled regions in eastern and southern Ukraine announced plans to hold votes on becoming integral parts of Russia.",
+    "url": "https://www.usatoday.com/story/news/world/2022/09/21/russian-president-vladimir-putin-announces-partial-mobilization/8070205001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/08/26/USAT/4db618bc-8077-433e-8a69-e0254c4faa9e-AP_Russia_Putin_Fires.jpeg?crop=3295,1854,x0,y27&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2022-09-21T12:18:25+00:00",
+    "content": "Russian President Vladimir Putin announced a partial military mobilization in a televised address to his nation on Wednesday as Ukraine's counteroffensive continued to push his invasion troops back t… [+3481 chars]"
+    },
+    {
+    "source": {
+    "id": "the-irish-times",
+    "name": "The Irish Times"
+    },
+    "author": "Harry McGee",
+    "title": "Taoiseach condemns Putin’s ‘threat of nuclear deployment’ in Ukraine",
+    "description": "Micheál Martin says Russian leader has weaponised migration by bombing cities and civilian targets",
+    "url": "https://www.irishtimes.com/politics/2022/09/21/taoiseach-condemns-putins-threat-of-nuclear-deployment-in-ukraine/",
+    "urlToImage": "https://www.irishtimes.com/resizer/qrmndqC_otyNjy419OTRXRvM07A=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/MLWXCINXDZ5ULECSDMQRCEF534.jpg",
+    "publishedAt": "2022-09-21T12:16:52Z",
+    "content": "Taoiseach Micheál Martin has strongly condemned the veiled threat of nuclear deployment that Russian president Vladimir Putin made when announcing an escalation of Russias war in Ukraine.\r\nThe Taoise… [+3291 chars]"
+    },
+    {
+    "source": {
+    "id": "the-irish-times",
+    "name": "The Irish Times"
+    },
+    "author": "Max Seddon in Moscow and Polina Ivanova in Berlin",
+    "title": "Putin raises the stakes in Ukraine war",
+    "description": "Russian president hopes to halt Ukraine’s advance and deter the west’s appetite for sending weapons",
+    "url": "https://www.irishtimes.com/world/europe/2022/09/21/putin-raises-the-stakes-in-ukraine-war/",
+    "urlToImage": "https://www.irishtimes.com/resizer/DVcvHZgpReKLen-garlsupGHwTA=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JMH25RKSLJ33RAJIRT76EI77HE.jpg",
+    "publishedAt": "2022-09-21T11:48:08Z",
+    "content": "Russian president Vladimir Putin has warned that Moscow is prepared to use all of its weaponry if the West continued with its \"nuclear blackmail.\" As he addressed the nation on Wednesday morning to a… [+6269 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Putin’s plan: What does partial mobilisation mean?",
+    "description": "Russian President Vladimir Putin has signed a decree that will see 300,000 reservists called to fight in Ukraine.",
+    "url": "http://www.aljazeera.com/news/2022/9/21/partial-mobilisation",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/000_32JT8F9.jpg?resize=1920%2C1440",
+    "publishedAt": "2022-09-21T11:44:20Z",
+    "content": "Russian President Vladimir Putin has ordered a partial mobilisation after Moscows troops suffered losses in Ukraine.\r\nIn a televised address on Wednesday, Putin warned Western nations supporting Ukra… [+5383 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Pope says it is 'madness' to think of using nuclear weapons in Ukraine",
+    "description": "Pope Francis, speaking as Russian President Vladimir Putin warned the West he was not bluffing about possibly using nuclear weapons, said on Wednesday that thinking of such an act was \"madness\".",
+    "url": "https://www.reuters.com/world/europe/pope-says-ukraine-subjected-savageness-monstrosities-torture-2022-09-21/",
+    "urlToImage": "https://www.reuters.com/resizer/MQ9oO2PznHDl01WIhoq5W91r4Dc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IX7RU2ZWMRONTESZWQPZN7WQN4.jpg",
+    "publishedAt": "2022-09-21T11:39:16Z",
+    "content": "VATICAN CITY, Sept 21 (Reuters) - Pope Francis, speaking as Russian President Vladimir Putin warned the West he was not bluffing about possibly using nuclear weapons, said on Wednesday that thinking … [+2388 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Wired",
+    "title": "Shadowy Russian Cell Phone Companies Are Cropping Up in Ukraine",
+    "description": "But as Ukrainians retake ground, some of the firms are erasing their online presence.",
+    "url": "https://www.wired.com/story/ukraine-war-mobile-networks-russia/",
+    "urlToImage": "https://media.wired.com/photos/632a4347995b6da54b57efd7/191:100/w_1280,c_limit/Shadowy-Russian-Cell-Companies-Security-GettyImages-713877183.jpg",
+    "publishedAt": "2022-09-21T11:00:00Z",
+    "content": "Since the companies emerged earlier this year, they claim to have expanded their services. Their websites list dozens of claimed locations, including shops, where people can buy SIM cards and interne… [+2993 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sophia Ankel",
+    "title": "Plane tickets out of Russia sell out after Putin declares mobilization",
+    "description": "Tickets out of Moscow to some destinations sold out after Russian President Putin's address on Wednesday.",
+    "url": "http://www.businessinsider.com/plane-tickets-out-russia-sell-out-after-putin-declares-mobilization-2022-9",
+    "urlToImage": "https://i.insider.com/632ad46aedbe7f00190f2983?width=1200&format=jpeg",
+    "publishedAt": "2022-09-21T10:58:13Z",
+    "content": "Some plane tickets out of Russia sold out after Russian President Vladimir Putin announced a partial military mobilization on Wednesday.\r\nIn a rare address to the nation, Putin announced an immediate… [+2805 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider-uk",
+    "name": "Business Insider (UK)"
+    },
+    "author": "Sophia Ankel",
+    "title": "Plane tickets out of Russia sell out after Putin declares mobilization",
+    "description": "Tickets out of Moscow to some destinations sold out after Russian President Putin's address on Wednesday.",
+    "url": "http://uk.businessinsider.com/plane-tickets-out-russia-sell-out-after-putin-declares-mobilization-2022-9",
+    "urlToImage": "https://i.insider.com/632ad46aedbe7f00190f2983?width=1200&format=jpeg",
+    "publishedAt": "2022-09-21T10:58:13Z",
+    "content": "Some plane tickets out of Russia sold out after Russian President Vladimir Putin announced a partial military mobilization on Wednesday.\r\nIn a rare address to the nation, Putin announced an immediate… [+2805 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Latvia says it will not welcome Russians fleeing mobilisation",
+    "description": "Latvia and Finland say they are unlikely to accommodate Russians fleeing to avoid partial mobilisation.",
+    "url": "http://www.aljazeera.com/news/2022/9/21/western-nations-hint-at-refusing-russians-escaping-mobilization",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/000_32J46QF.jpg?resize=1920%2C1440",
+    "publishedAt": "2022-09-21T10:47:12Z",
+    "content": "Some Western nations have suggested they will not provide asylum or refuge to people fleeing Russia after President Vladimir Putin announced a partial mobilisation of reservists.\r\nIn a televised addr… [+2407 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-times",
+    "name": "The Washington Times"
+    },
+    "author": "Ben Wolfgang",
+    "title": "Putin threatens nuclear escalation, mobilizes Russian reserves",
+    "description": "Russian President Vladimir Putin lobbed nuclear threats Wednesday at the West as he announced the partial mobilization of his country's military reserves, hinting that the Kremlin may be setting the stage for major escalation as its ground invasion of Ukraine…",
+    "url": "https://www.washingtontimes.com/news/2022/sep/21/putin-threatens-nuclear-escalation-mobilizes-russi/",
+    "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2022/09/21/Russia_Putin_44262.jpg-83dd0_c0-182-4274-2675_s1200x700.jpg?1c308136935f7a149f8db01cf52bec2119f5cce5",
+    "publishedAt": "2022-09-21T10:36:00Z",
+    "content": "Russian President Vladimir Putin lobbed nuclear threats Wednesday at the West as he announced the partial mobilization of his country’s military reserves, hinting that the Kremlin may be setting the … [+4104 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Disdain and defiance among Kyiv residents after Putin order",
+    "description": "Residents of the Ukrainian capital Kyiv dismissed on Wednesday Russian President Vladimir Putin's callup of military reservists as a mark of desperation and expressed confidence in their own armed forces to drive Russian troops from their country.",
+    "url": "https://www.reuters.com/world/europe/disdain-defiance-among-kyiv-residents-after-putin-order-2022-09-21/",
+    "urlToImage": "https://www.reuters.com/resizer/iwHE5exY83HEFtGl1yzHOBYD87k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FCJLRG2YKRMOJHD3VBJDYY6RDY.jpg",
+    "publishedAt": "2022-09-21T10:27:55Z",
+    "content": "KYIV, Sept 21 (Reuters) - Residents of the Ukrainian capital Kyiv dismissed on Wednesday Russian President Vladimir Putin's callup of military reservists as a mark of desperation and expressed confid… [+2626 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Robyn Dixon, Catherine Belton, Mary Ilyushina",
+    "title": "Putin drafts up to 300,000 reservists, backs annexation amid war losses",
+    "description": "Bowing to hardliners, the Russian president issued a decree to call up as many as 300,000 reservists and voiced support for steps to annex occupied territories",
+    "url": "https://www.washingtonpost.com/world/2022/09/21/putin-speech-annexation-ukraine-russia/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EEHVOYRZPII63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-09-21T10:27:16Z",
+    "content": "Russian President Vladimir Putin declared a partial military mobilization Wednesday to call up as many as 300,000 reservists in a dramatic bid to reverse setbacks in his war on Ukraine, including Rus… [+13308 chars]"
+    }
+    ]
+    }
